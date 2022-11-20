@@ -55,7 +55,7 @@
 	<body>
 		<form name="formulario" method="POST" action="">
 			<div class="jumbotron text-center">
-				<h1> Cadastro de clientes</h1>
+				<h6> Cadastro de clientes</h6>
 				<p>Seja bem vindo! Para continuar, complete seu cadastro antes de aproveitar nosso cardápio!<p> 
 			</div>
 			<div class="container">
